@@ -1,0 +1,2 @@
+- This folder is for router vue component views used by the Vue Router - to be referenced by /router/index.js.
+- One of these files are used by at least one route.
